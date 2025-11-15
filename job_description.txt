@@ -1,0 +1,20 @@
+We are looking for an **AI Engineer** to develop and optimize artificial intelligence models for real-world applications.  
+
+### **Responsibilities:**  
+- Design, develop, and deploy AI models for automation and decision-making.  
+- Implement **machine learning algorithms** and **deep learning architectures**.  
+- Work with **large datasets** to train and fine-tune AI models.  
+- Optimize AI systems for **performance, accuracy, and scalability**.  
+- Collaborate with **data scientists and software engineers** to integrate AI solutions.  
+- Stay updated with **latest AI research** and apply new techniques.  
+
+### **Required Skills:**  
+✔ Strong programming skills in **Python, TensorFlow, PyTorch**.  
+✔ Experience with **NLP, Computer Vision, or Reinforcement Learning**.  
+✔ Knowledge of **data preprocessing, feature engineering, and model evaluation**.  
+✔ Familiarity with **cloud platforms (AWS, Azure, GCP)** for AI deployment.  
+✔ Understanding of **MLOps** for managing AI models in production.  
+
+### **Preferred Qualifications:**  
+🎓 Bachelor's or Master's degree in **AI, Computer Science, or Data Science**.  
+📌 2+ years of experience in AI model development and deployment.  
